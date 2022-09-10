@@ -1,2 +1,1 @@
-semitone difference - basic algorithm (199)
-For raw project instructions see: http://syllabus.africacode.net/projects/semitone-challenge/basic-algorithm/
+Play Semitone Game: https://tshalang.github.io/Semitone_game/
